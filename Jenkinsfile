@@ -1,14 +1,18 @@
 pipeline {
     agent any
     stages {
-        stage('Hello') {
+        stage('EMPLOIYEE NAME') {
             steps {
-                echo 'Hi World'
+                echo 'RODDAM MADHURIMA'
             }
         }
-        stage('BUBU'){
+        stage('WORK EXP'){
             steps{
-                echo 'iam madhuri'
+                echo '5 YEARS'
+            }
+            stage('CURRENT COMPANY')
+            steps{
+                echo'TCTSL'
             }
         }
     }
