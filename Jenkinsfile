@@ -8,7 +8,7 @@ pipeline {
         }
         stage('BUBU'){
             steps{
-                echo 'iam madhurima'
+                echo 'iam madhuri'
             }
         }
     }
