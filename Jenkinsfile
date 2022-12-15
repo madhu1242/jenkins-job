@@ -10,7 +10,8 @@ pipeline {
             steps{
                 echo '5 YEARS'
             }
-            stage('CURRENT COMPANY')
+        }
+        stage('CURRENT COMPANY') {
             steps{
                 echo'TCTSL'
             }
